@@ -1,0 +1,6 @@
+{
+  "name": "Wow Burger Digital Menu",
+  "description": "A premium, mobile-first digital menu website and admin dashboard for Wow Burger Addis Ababa, featuring instant category browsing, item search, saved favorites, detailed dish pages, and a management console for menu items and settings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
